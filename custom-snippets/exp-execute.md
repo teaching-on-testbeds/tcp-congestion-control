@@ -44,9 +44,6 @@ We will transfer the file from the FABRIC resource:
 
 :::
 
-
-:::
-
 ::: {.cell .code}
 ```python
 import os
