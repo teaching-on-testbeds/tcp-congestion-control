@@ -2,6 +2,8 @@
 
 # TCP Congestion Control
 
+This experiment shows the basic behavior of TCP congestion control. You'll see the classic "sawtooth" pattern in a TCP flow's congestion window, and you'll see how a TCP flow responds to congestion indicators.
+
 :::
 
 
